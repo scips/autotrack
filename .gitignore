@@ -1,6 +1,7 @@
 node_modules
 npm-debug.log
 .DS_Store
+chromedriver
 
 # Local SauceLabs test runner
 sauce.sh
